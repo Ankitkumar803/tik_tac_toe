@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tic tak toe</string>
+    <string name="heading">welcome to tic - tak -  toe</string>
+    <string name="subheading">-by Ankit</string>
+    <string name="subheading1">Player 1- "X" </string>
+    <string name="subheading2">Player 2- "O" </string>
+    <string name="subheading3">Player 1 start... please! </string>
+    <string name="reset">RESET </string>
+
+</resources>
